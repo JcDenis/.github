@@ -13,4 +13,4 @@ Contributions are welcome: issues, ideas and pull requests. You can write in Eng
 
 ## Releases
 
-Releases are done by the maintainer with the release button of the workflow "Dotclear module".
+Releases are done by the maintainer.
